@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(42, 42, 55);
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2 {
+    color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+h2 {
+    font-size: 1.9rem;
+}
+
+h3, h4, h5, h6 {
+    color: rgb(240, 240, 240);
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+p, li, a {
+    color: aliceblue;
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+}
+
+pre {
+    background-color: rgb(61, 56, 85);
+    color: white;
+    padding: 8px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+br {
+    margin: 5px 0;
+}
